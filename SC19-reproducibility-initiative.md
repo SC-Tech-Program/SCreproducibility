@@ -113,7 +113,8 @@ The SC paper selected for the reproducibility challenge receives a special recog
 
 ## SC Reproducibility Resources for Authors
 
-Please visit the GitHub repository to find resources and answers to FAQs.
+Please visit the GitHub repository to find resources:
 https://github.com/SC-Tech-Program
 
+Please visit this repository for FAQs: https://github.com/SC-Tech-Program/FAQs
 
