@@ -1,4 +1,4 @@
-# SC19
+# SC19 process
 
 At SC19, the form embedded in the submission system for generating the **Artifact Description Appendix** 
 included the following instructions and questions:
@@ -44,7 +44,7 @@ Mark only one oval.
 ## AA Badge Eligibility
 
 For eligibility: 
-- at lease one of Q1, Q2, Q3 shour de answered with the first option
+- at lease one of Q1, Q2, Q3 should de answered with the first option
 
 Ineligible if:
 - any question answered with the middle option
@@ -59,4 +59,7 @@ Many authors still are unclear that a link to the public software repository use
 (Owners can delete a software repository at any time.)
 A permanent archival-quality deposit must be made with a service that provides a global identifier (such as a DOI) and is persistent.
 
+### Example archival-quality repositories
 
+- [Zenodo](http://zenodo.org)
+- [Figshare](https://figshare.com)
