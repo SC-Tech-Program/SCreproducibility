@@ -1,11 +1,17 @@
-# SC Reproducibility Initiative
+# Reproducibility Initiative SC19
+
+*— By the SC19 Reproducibility Chair, Lorena A. Barba, PhD, derived in part from the [SC18 Reproducibility Initiative](https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/) web page.*
 
 **TL;DR** — After 3 years of increasing momentum, the SC Reproducibility Initiative makes Artifact Description (AD) 
 Appendices mandatory for all papers submitted to the SC19 Technical Program (but optional for workshop papers and 
 posters). Artifact Evaluation (AE) is still optional, but highly encouraged. AD/AE Appendices will now be auto-generated from author 
-responses to a standard form, embedded in the SC online submission system. In 2019, the SC Reproducibility Initiative 
-introduces three new tracks/committees, under the SC Reproducibility Chair: (1) AD/AE Appendices, (2) Reproducibility 
-Challenge, (3) Journal Special Issue.
+responses to a standard form, embedded in the SC online submission system. 
+
+In 2019, the SC Reproducibility Initiative introduces three new tracks/committees, under the SC Reproducibility Chair: 
+
+1. AD/AE Appendices -- SC19 Chair: John Linford
+2. Reproducibility Challenge -- SC19 Co-chairs: Fernanda Foertter, Scott Michael
+3. Journal Special Issue -- SC19 Co-Chairs: Hai Ah Nam, Elsa Gonsiorowski
 
 ## New SC Reproducibility Tracks/Committees
 
@@ -110,5 +116,4 @@ The SC paper selected for the reproducibility challenge receives a special recog
 Please visit the GitHub repository to find resources and answers to FAQs.
 https://github.com/SC-Tech-Program
 
----
-*— By the SC19 Reproducibility Chair, Lorena A. Barba, PhD, derived in part from the [SC18 Reproducibility Initiative](https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/) web page.*
+
