@@ -17,27 +17,27 @@ Author-created artifacts relevant to this paper have been placed on a publicly a
 https://www.acm.org/publications/policies/artifact-review-badging
 
 **Software Artifact Availability**: see https://opensource.org/licenses/alphabetical * Mark only one oval.
-- [] All author-created software artifacts are maintained in a public repository under an OSI- approved license.
-- [] Some author-created software artifacts are NOT maintained in a public repository or are NOT available under an OSI-approved license.
-- [] There are no author-created software artifacts.
+- All author-created software artifacts are maintained in a public repository under an OSI- approved license.
+- Some author-created software artifacts are NOT maintained in a public repository or are NOT available under an OSI-approved license.
+- There are no author-created software artifacts.
 
 **Hardware Artifact Availability**: see https://www.oshwa.org/definition/
 Mark only one oval.
-- [] All author-created hardware artifacts are available and comply with the Open Source Hardware Definition.
-- [] Some author-created hardware artifacts are NOT available or do NOT comply with the Open Source Hardware Definition.
-- [] There are no author-created hardware artifacts.
+- All author-created hardware artifacts are available and comply with the Open Source Hardware Definition.
+- Some author-created hardware artifacts are NOT available or do NOT comply with the Open Source Hardware Definition.
+- There are no author-created hardware artifacts.
 
 **Data Artifact Availabilit**y
 Mark only one oval.
-- [] All author-created data artifacts are maintained in a public repository with a stable identifier, such as a DOI.
-- [] Some author-created data artifacts are NOT maintained in a public repository or do NOT have a stable identifier, such as a DOI.
-- [] There are no author-created data artifacts.
+- All author-created data artifacts are maintained in a public repository with a stable identifier, such as a DOI.
+- Some author-created data artifacts are NOT maintained in a public repository or do NOT have a stable identifier, such as a DOI.
+- There are no author-created data artifacts.
 
 **Proprietary Artifacts**: see http://www.linfo.org/proprietary.html
 Mark only one oval.
-- [] None of the associated artifacts, author-created or otherwise, are proprietary.
-- [] No author-created artifacts are proprietary. There are associated proprietary artifacts that are not created by the authors.
-- [] Some author-created artifacts are proprietary
+- None of the associated artifacts, author-created or otherwise, are proprietary.
+- No author-created artifacts are proprietary. There are associated proprietary artifacts that are not created by the authors.
+- Some author-created artifacts are proprietary
 
 ---
 
