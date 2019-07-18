@@ -9,3 +9,5 @@ Documentation of the SC Reproducibility Initiative, including workflows, backgro
 - Reproducibility Challenge Track: Fernanda Foertter and Scott Michael, Co-chairs; +7 members
 - AD/AE Appendices Track: John Linford, Chair; +10 members
 - Journal Special Issue Track: Hai Ah Nam and 	Elsa Gonsiorowski, Co-chairs; +7 members
+- Reproducibility Liaison for Students@SC: Scott Michael
+- Reproducibility Vice-chair: Grigori Fursin
