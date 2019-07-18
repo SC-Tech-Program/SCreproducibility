@@ -6,8 +6,8 @@ Documentation of the SC Reproducibility Initiative, including workflows, backgro
 
 **Reproducibility Chair: Lorena A. Barba**
 
-- Reproducibility Challenge Track: Fernanda Foertter and Scott Michael, Co-chairs; +7 members
+- [Reproducibility Challenge Track](https://github.com/SC-Tech-Program/SCreproducibility/blob/master/Reproducibility-Challenge.md): Fernanda Foertter and Scott Michael, Co-chairs; +7 members
 - AD/AE Appendices Track: John Linford, Chair; +10 members
-- Journal Special Issue Track: Hai Ah Nam and 	Elsa Gonsiorowski, Co-chairs; +7 members
+- [Journal Special Issue Track](https://github.com/SC-Tech-Program/SCreproducibility/blob/master/Journal-Special-Issue.md): Hai Ah Nam and 	Elsa Gonsiorowski, Co-chairs; +7 members
 - Reproducibility Liaison for Students@SC: Scott Michael
 - Reproducibility Vice-chair: Grigori Fursin
