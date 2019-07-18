@@ -40,3 +40,9 @@ Following the interviews the Reproducibility Challenge team meets and discusses 
 - We need to gauge the author team’s excitement, interest, and whether they’ll be able to devote the time
 - Does the application lend itself to a science story that can excite both the student teams and the public? Bonus points if it aligns with an SC theme or local/regional tie-in
 
+## For future SC conferences
+
+Since SC19, the AD Appendix is mandatory, which means that using the availability of an appendix for the paper pool to select a benchmark is no longer a filter.
+Instead of starting with 40 papers, the SC20 team has the whole set of accepted papers (possibly around 100).
+
+> We suggest that the SC20 team could start with the sub-set of papers that were found eligible for an Artifacts Available badge, a count of 32 accepted papers for SC19. This measure also has the effect of promoting a higher standard of reproducibility for future conferences.
