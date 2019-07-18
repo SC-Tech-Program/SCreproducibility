@@ -44,22 +44,33 @@ Mark only one oval.
 ## AA Badge Eligibility
 
 For eligibility: 
-- at lease one of Q1, Q2, Q3 should de answered with the first option
+- at least one of Q1, Q2, Q3 should de answered with the first option
 
 Ineligible if:
 - any question answered with the middle option
 - Q4 answered with option 3
 
 Final review of eligibility:
-- Even if authors self-report eligibility with the right responses to these questions, the **AD/AE Appendices Committee*
+- Even if authors self-report eligibility with the right responses to these questions, the **AD/AE Appendices Committee**
 needs to do a final review, following URLs and checking that artifacts are deposited in a _permanent archive_ with a _unique identifier_.
 
 ### Note:
-Many authors still are unclear that a link to the public software repository used for development under version control _is not sufficient_.
+> Most authors still are unclear that a link to the public software repository used for development under version control _is not sufficient_.
 (Owners can delete a software repository at any time.)
 A permanent archival-quality deposit must be made with a service that provides a global identifier (such as a DOI) and is persistent.
+
+For SC19, after paper acceptances were decide, the AD/AE Committee reviewed again the appendices, and worked with all authors
+to make a permanent archive of their software and data artifacts.
+Authors were asked to update their appendices, reporting the DOIs for artifacts, at the time of camera-ready paper submission.
 
 ### Example archival-quality repositories
 
 - [Zenodo](http://zenodo.org)
 - [Figshare](https://figshare.com)
+- [Dryad](http://datadryad.org)
+
+---
+
+### Read more
+
+- [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
