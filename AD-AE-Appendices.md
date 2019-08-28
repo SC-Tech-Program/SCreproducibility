@@ -25,7 +25,7 @@ Lessons Learned
 
   LL4. Double-open and double-blind workflows should be kept separate in Linklings.  Workflows for committees with double-open access to author-identifying information (e.g. the AD/AE Appendices Committee) should be implemented in Linklings as completely separate workflows from all other committees (e.g. the Technical Program Committee).  No part of the double-open workflows should be visible in any way to someone performing a double-blind review.  Because the AD/AE Appendices workflow was implemented late, Linkings was forced to reuse parts of the technical program review workflow.  Upon being granted permission to view the appendices in Linklings (25 April), the AD/AE Appendices Committee discovered that author identifying information had been leaked to all double-blind paper reviewers in the form of the output of a script that captured environment variables for the AD Appendix.  We immediately asked Linklings to hide these fields from the double-blind review, but several papers had been reviewed at that point.  Furthermore, when the technical review concluded, fields that should have remained visible to the double-open AD/AE Appendices committee were automatically hidden.  This hampered our ability to identify papers eligible for the ACM Artifacts Available badge.  Implementing double-open and double-blind reviews as distinct workflows in Linklings will mitigate these issues.
 
-  LL5.  The AD/AE Appendices Committee should be organized under the Technical Program Committee, not under the Reproducibility Committee.  Organizing the Appendices Committee under the Reproducibility Committee may seem logical, but in practice most of the Appendices Committee's needs, direction, and communication were driven from the Technical Program Committee.  Communication between the AD/AE Appendices Committee and the Technical Program Committee was dramatically improved when a direct line of communication was established ad-hoc.  Establishing this communication was key to delivering the appendices review.
+  LL5.  The AD/AE Appendices Track Chair and the Technical Papers Chairs should communicate regularly and proactively.  Some of the issues that impacted the AD/AE Appendices Track also affected the Technical Papers Track and Linklings required input from both tracks to resolve these issues.  Coordinated communication among the chairs of these tracks and Linklings was key to delivering the appendices review.
 
   LL6. Email lists and aliases should be tested well in advance.  The AD/AE Appendices mailing list was advertised as the primary channel for authors to communication with the AD/AE Appendices Committee, but this mailing list was missing several committee members and included some email addresses that were no longer in service.  It was mid-May before we discovered this issue.  We also discovered (in June) that many Chinese email servers would block this email list.  It's highly likely that authors attempted to contact the SC19 AD/AE Appendices Committee but received no response.
 
@@ -46,7 +46,6 @@ Because many of the tools needed for the AD/AE Appendix review were not implemen
   * A tool for identifying papers eligible for certain ACM badges.  We worked around this by maintaining our own records and using custom queries.
 
 
-
 Suggested Appendix Process for SC20
 -----------------------------------
 
@@ -57,8 +56,3 @@ Conclusions
 -----------
 
 The AD/AE Appendices committee of 10 people reviewed over 300 appendices and initiated at least 107 email conversations.  139 appendices were determined to be complete while 87 were incomplete and 16 were missing.  Of the 16 papers with missing appendices, 11 appendices were added and judged complete, 3 papers were determined to not require an appendix as they were pure theory papers, and 2 papers were rejected after they elected not to provide the mandatory AD appendix.  One candidate for Best Student Paper did not have the mandatory AD appendix before the review (and therefore was set to be rejected) but this review process helped the authors provide the complete appendix and stay in the running for Best Student Paper.  The AD/AE Appendices Committee worked exceptionally hard and were able to deliver on their obligations.  We believe the reproducibility initiative should continue to be part of SC and that with the proper support and communication the AD/AE Appendices Committee will bring significant value to SC.  Please contact john.christian.linford@gmail.com for any further details on the SC19 AD/AE Appendices review.
-
-
-
-
-
