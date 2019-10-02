@@ -22,3 +22,7 @@ In the SC19 cycle, the 9 top-scoring teams from the SC18 SCC were invited to sub
 The submission website for this journal is located at: [https://www.evise.com/profile/api/navigate/PARCO](https://www.evise.com/profile/api/navigate/PARCO)
  
 To ensure that all manuscripts are correctly identified for inclusion into the special issue, authors must select the name of the special issue when they upload their manuscripts: **VSI:SC18 SCC Reproducibility** (for the SC19 cycle, reviewing papers from the SC18 SCC).
+
+## Recommendation for SC20 and beyond
+
+The Student Cluster Competition (SCC) should also commit to be a guest editor for the Journal Special Issue.
