@@ -11,3 +11,7 @@ Documentation of the SC Reproducibility Initiative, including workflows, backgro
 - [Journal Special Issue Track](https://github.com/SC-Tech-Program/SCreproducibility/blob/master/Journal-Special-Issue.md): Hai Ah Nam and 	Elsa Gonsiorowski, Co-chairs; +7 members
 - Reproducibility Liaison for Students@SC: Scott Michael
 - Reproducibility Vice-chair: Grigori Fursin
+
+## SC20 Transparency and Reproducibility
+
+**Chair: [Beth A. Plale](https://luddy.indiana.edu/contact/profile/?profile_id=271)**
