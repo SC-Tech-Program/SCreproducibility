@@ -45,9 +45,9 @@ The doc directory should also contain your final reproducibility report in .pdf 
 
 * The `compile` directory should contain a “compilation” script or set of scripts. These scripts should produce the binaries and any other libraries used by the next “run” script(s). The scripts should build all major dependencies that are required by your build of the Normal Modes application. The output of this script should be the binaries used in the Normal Modes paper.
 * Include a README in the `compile` directory that gives a brief explanation of how the script(s) work, including:
-..* compiler information
-..* Which software dependencies are being built by the script vs. supplied by the OS or .rpms
-..* Any comments on what changes or modifications were done in order to compile on your cluster
+  * compiler information
+  * Which software dependencies are being built by the script vs. supplied by the OS or .rpms
+  * Any comments on what changes or modifications were done in order to compile on your cluster
 * Include in the main README in the `doc` directory how to compile the application (i.e. how to invoke the script(s))
 * In a separate file include the output from a script to gather system information.  Use https://github.com/SC-Tech-Program/Author-Kit (or a similar script) with appropriate modifications.
 
